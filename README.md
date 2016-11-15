@@ -73,6 +73,9 @@ serVis(json, out.dir = 'visual', open.browser = TRUE)
 The topic modelling for Musical Instruments data has given 10 most relevant topics. When we consider the topic 1, the LDAvis shows the top 30 terms associated with topic 1. The lambda values gives the ranking of terms based on their relevance to each of these topics.
 
 In the example, if we consider topic 1, the most relevant terms are selling, interested, refund, arrive, information, quality,  for a lambda of 0. 
+Topic 2, deals with the acoustics. We can find words like tuning, sound, strings, tuners, feels.
+Topic 3 talks about the technicalities of the instruments. We find words like pedal, sound, distortion.
+Topic 4 has words like easy, confortable, price, fit, leather, fender. We know that this is talking about the product as a whole and the aesthetics. 
 
 Similarly, the terms for different topics can be sorted using this method for different values of lambda. 
 The link for the LDAvis interactive file is given below.
