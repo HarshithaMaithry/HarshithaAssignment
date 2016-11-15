@@ -77,7 +77,7 @@ In the example, if we consider topic 1, the most relevant terms are selling, int
 Similarly, the terms for different topics can be sorted using this method for different values of lambda. 
 The link for the LDAvis interactive file is given below.
 
-https://htmlpreview.github.io/?https://github.com/HarshithaMaithry/HarshithaAssignment/blob/master/index.html
+https://cdn.rawgit.com/HarshithaMaithry/HarshithaAssignment/master/index.html
 
 The "visual" folder comprises of 5 formats of files. A .json, .html, .v3, ldavis and lda files. 
 The files have been uploaded onto the github repository.
